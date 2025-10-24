@@ -491,8 +491,8 @@
 /* Grid */
 .video-gallery-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 4px;
+  grid-template-columns: 1fr ;
+  gap: 10px;
   max-width: 64rem; /* 1024px */
   width: 100%;
 }
